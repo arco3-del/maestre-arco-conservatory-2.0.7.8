@@ -1,0 +1,8 @@
+{
+  "name": "Maestre Arco Conservatory",
+  "description": "A revolutionary educational app using hybrid AI to democratize access to world-class music and art education, offering personalized and accessible feedback for all.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
