@@ -48,4 +48,7 @@ This project is meticulously designed to embody the spirit of the challenge:
 3.  **Run the application:** Open `index.html` in a modern web browser that supports the necessary web APIs (like Google Chrome).
 
 ---
-*This project is a response to the democratization of mastery.*
+*This project is a response to the democratization of mastery.* 
+
+RICHARD FELIPE URBINA
+ZAPOPAN,MEXICO 
